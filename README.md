@@ -17,7 +17,11 @@ node index.js
 
 ```
 
-You can use my OpenAI API key. I will change it later.
+create an .env file 
+```bash
+OPENAI_API_KEY = YOUR_KEY
+```
+
 Please provide the input from DSA to get accurate results, since I am scrapping this from leetcode.
 For now, this will generate only 5 questions because of the tokens limit
 
